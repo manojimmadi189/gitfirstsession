@@ -1,2 +1,3 @@
 This is git first session QA1 machine
 This is git first session QA1 machine second line
+This is git first session QA1 machine third line
